@@ -1,0 +1,25 @@
+Erik Emilsson,2020-06-01
+B,Gulsparv,Emberiza citrinella,3399
+B,Gärdsmyg,Troglodytes troglodytes,254
+B,Halsbandsflugsnappare,Ficedula albicollis,0
+R,Havssula,Morus bassanus,45
+B,Havstrut,Larus marinus,343
+B,Havsörn,Haliaeetus albicilla,132
+B,Höksångare,Sylvia nisoria,1
+B,Hökuggla,Surnia ulula,18
+B,Järnsparv,Prunella modularis,4
+B,Järpe,Bonasa bonasia,11
+B,Kaja,Corvus monedula,20205
+B,Kanadagås,Branta canadensis,12032
+B,Kattuggla,Strix aluco,2
+R,Klykstjärtad stormsvala,Oceanodroma leucorhoa,0
+B,Knipa,Bucephala clangula,2610
+B,Knölsvan,Cygnus olor,2200
+B,Koltrast,Turdus merula,1431
+B,Korp,Corvus corax,1220
+B,Kricka,Anas crecca,163
+B,Kråka,Corvus corone,7546
+B,Kungsfiskare,Alcedo atthis,10
+B,Kungsfågel,Regulus regulus,850
+B,Kungsörn,Aquila chrysaetos,27
+B,Kärrsnäppa,Calidris alpina,1

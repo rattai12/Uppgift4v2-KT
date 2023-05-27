@@ -1,0 +1,43 @@
+Lena Lennartsson,2020-02-20
+B,Lavskrika,Perisoreus infaustus,3
+B,Ljungpipare,Pluvialis apricaria,56
+B,Mindre hackspett,Dendrocopos minor,17
+B,Mindre korsnäbb,Loxia curvirostra,401
+M,Mindre sångsvan,Cygnus columbianus,13
+B,Morkulla,Scolopax rusticola,1
+B,Mosnäppa,Calidris temminckii,0
+B,Nötkråka,Nucifraga caryocatactes,12
+B,Nötskrika,Garrulus glandarius,388
+B,Nötväcka,Sitta europaea,1244
+B,Ormvråk,Buteo buteo,324
+B,Orre,Tetrao tetrix,74
+B,Pilfink,Passer montanus,1515
+B,Pilgrimsfalk,Falco peregrinus,9
+R,Praktejder,Somateria spectabilis,0
+M,Prutgås,Branta bernicla,0
+B,Pungmes,Remiz pendulinus,0
+B,Pärluggla,Aegolius funereus,1
+B,Rapphöna,Perdix perdix,49
+B,Ringduva,Columba palumbus,1129
+B,Ringtrast,Turdus torquatus,0
+B,Råka,Corvus frugilegus,1626
+B,Röd glada,Milvus milvus,240
+B,Rödbena,Tringa totanus,9
+B,Rödhake,Erithacus rubecula,146
+B,Rödvingetrast,Turdus iliacus,33
+B,Rördrom,Botaurus stellaris,0
+B,Rörhöna,Gallinula chloropus,27
+B,Rörsångare,Acrocephalus scirpaceus,0
+B,Salskrake,Mergellus albellus,360
+B,Sidensvans,Bombycilla garrulus,803
+B,Sillgrissla,Uria aalge,8
+B,Sjöorre,Melanitta nigra,241
+B,Skata,Pica pica,2239
+B,Skedand,Anas clypeata,0
+B,Skogsduva,Columba oenas,34
+B,Skogssnäppa,Tringa ochropus,0
+B,Skrattmås,Larus ridibundus,1773
+B,Skäggdopping,Podiceps cristatus,425
+B,Skäggmes,Panurus biarmicus,17
+B,Skärfläcka,Recurvirostra avosetta,0
+B,Skärpiplärka,Anthus petrosus,4

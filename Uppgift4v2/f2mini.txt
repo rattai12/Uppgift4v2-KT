@@ -1,0 +1,26 @@
+Andreas Andersson,2020-01-09
+B,Duvhök,Accipiter gentilis,34
+B,Dvärgmås,Larus minutus,0
+b,Dvärgsparv,Emberiza pusilla,0
+B,Ejder,Somateria mollissima,307
+B,Enkelbeckasin,Gallinago gallinago,3
+B,Entita,Parus palustris,324
+B,Fasan,Phasianus colchicus,84
+B,Fiskmås,Larus canus,1107
+B,Fjällvråk,Buteo lagopus,58
+R,Flodsångare,Locustella fluviatilis,0
+B,Forsärla,Motacilla cinerea,1
+B,Gransångare,Phylloscopus collybita,1
+B,Gravand,Tadorna tadorna,1
+B,Grå flugsnappare,Muscicapa striata,0
+B,Grågås,Anser anser,5332
+B,Gråhakedopping,Podiceps grisegena,1
+B,Gråhäger,Ardea cinerea,227
+B,Gråsiska,Carduelis flammea,1145
+B,Gråsparv,Passer domesticus,560
+B,Gråspett,Picus canus,11
+B,Gråtrut,Larus argentatus,3918
+B,Gräsand,Anas platyrhynchos,11144
+B,Grönfink,Carduelis chloris,1465
+B,Gröngöling,Picus viridis,63
+B,Grönsiska,Carduelis spinus,1293
